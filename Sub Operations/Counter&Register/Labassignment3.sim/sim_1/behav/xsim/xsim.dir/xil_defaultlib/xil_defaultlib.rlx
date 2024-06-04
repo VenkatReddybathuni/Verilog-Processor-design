@@ -1,0 +1,11 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/VENKAT/OneDrive/Documents/vivado_files/Labassignment3/Labassignment3.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+C:/Users/VENKAT/OneDrive/Documents/vivado_files/Labassignment3/Labassignment3.srcs/sim_1/new/counter_tb.v,1706683659,verilog,,,,counter_tb,,,,,,,,
+C:/Users/VENKAT/OneDrive/Documents/vivado_files/Labassignment3/Labassignment3.srcs/sim_1/new/shift_register_tb.v,1706684028,verilog,,,,shift_register_tb,,,,,,,,
+C:/Users/VENKAT/OneDrive/Documents/vivado_files/Labassignment3/Labassignment3.srcs/sim_1/new/top_module_tb.v,1706691397,verilog,,,,top_module_tb,,,,,,,,
+C:/Users/VENKAT/OneDrive/Documents/vivado_files/Labassignment3/Labassignment3.srcs/sources_1/new/counter.v,1706654268,verilog,,C:/Users/VENKAT/OneDrive/Documents/vivado_files/Labassignment3/Labassignment3.srcs/sources_1/new/shift_register_4bit.v,,T_ff;counter,,,,,,,,
+C:/Users/VENKAT/OneDrive/Documents/vivado_files/Labassignment3/Labassignment3.srcs/sources_1/new/shift_register_4bit.v,1706667465,verilog,,C:/Users/VENKAT/OneDrive/Documents/vivado_files/Labassignment3/Labassignment3.srcs/sources_1/new/top_module.v,,shift_register_4bit,,,,,,,,
+C:/Users/VENKAT/OneDrive/Documents/vivado_files/Labassignment3/Labassignment3.srcs/sources_1/new/top_module.v,1706667458,verilog,,C:/Users/VENKAT/OneDrive/Documents/vivado_files/Labassignment3/Labassignment3.srcs/sim_1/new/top_module_tb.v,,top_module,,,,,,,,

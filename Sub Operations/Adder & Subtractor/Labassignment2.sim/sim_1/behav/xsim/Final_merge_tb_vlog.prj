@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Labassignment2.srcs/sources_1/new/Final_merge.v" \
+"../../../../Labassignment2.srcs/sources_1/new/question1a.v" \
+"../../../../Labassignment2.srcs/sources_1/new/question1b.v" \
+"../../../../Labassignment2.srcs/sim_1/new/Final_merge_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

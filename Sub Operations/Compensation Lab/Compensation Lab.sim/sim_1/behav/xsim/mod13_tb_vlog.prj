@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Compensation Lab.srcs/sources_1/new/mod13.v" \
+"../../../../Compensation Lab.srcs/sim_1/new/mod13_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

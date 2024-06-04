@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lab_practice.srcs/sources_1/new/counter_sync.v" \
+"../../../../lab_practice.srcs/sources_1/new/adder.v" \
+"../../../../lab_practice.srcs/sources_1/new/primefn.v" \
+"../../../../lab_practice.srcs/sources_1/new/forloop.v" \
+"../../../../lab_practice.srcs/sources_1/new/moore_11.v" \
+"../../../../lab_practice.srcs/sources_1/new/mealy_11.v" \
+"../../../../lab_practice.srcs/sim_1/new/adder_tb.v" \
+"../../../../lab_practice.srcs/sim_1/new/prime_tb.v" \
+"../../../../lab_practice.srcs/sim_1/new/counter_sync_tb.v" \
+"../../../../lab_practice.srcs/sim_1/new/forloop_tb.v" \
+"../../../../lab_practice.srcs/sim_1/new/moore_11_tb.v" \
+"../../../../lab_practice.srcs/sim_1/new/mealy_11_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

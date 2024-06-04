@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/birud/OneDrive - iitgn.ac.in/github/Digital-Systems/Lab codes/Lab - 5 Comparator/Lab_5.srcs/sources_1/new/comparator_4bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator_4bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/birud/OneDrive - iitgn.ac.in/github/Digital-Systems/Lab codes/Lab - 5 Comparator/Lab_5.srcs/sim_1/new/comparator_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module comparator_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/birud/OneDrive - iitgn.ac.in/github/Digital-Systems/Lab codes/Lab - 5 Comparator/Lab_5.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

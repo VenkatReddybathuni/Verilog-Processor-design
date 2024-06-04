@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/birud/OneDrive - iitgn.ac.in/github/Digital-Systems/Lab codes/Labassignment - 1 Math Tutor/Labassignment1.srcs/sources_1/new/question2a.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module question2a
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/birud/OneDrive - iitgn.ac.in/github/Digital-Systems/Lab codes/Labassignment - 1 Math Tutor/Labassignment1.srcs/sim_1/new/ques2test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ques2test
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/birud/OneDrive - iitgn.ac.in/github/Digital-Systems/Lab codes/Labassignment - 1 Math Tutor/Labassignment1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Lab - 7A Hazards2.srcs/sources_1/new/dynamic.v" \
+"../../../../Lab - 7A Hazards2.srcs/sim_1/new/dynamic_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

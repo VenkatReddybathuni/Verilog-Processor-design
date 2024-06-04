@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="op_codes_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="op_codes_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="9.872 ns"></ZoomStartTime>
+      <ZoomEndTime time="24.873 ns"></ZoomEndTime>
+      <Cursor1Time time="25.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="206"></NameColumnWidth>
+      <ValueColumnWidth column_width="151"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="16" />
+   <wvobject fp_name="/op_codes_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/op_codes_tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/op_codes_tb/en" type="logic">
+      <obj_property name="ElementShortName">en</obj_property>
+      <obj_property name="ObjectShortName">en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/op_codes_tb/op_code" type="array">
+      <obj_property name="ElementShortName">op_code[3:0]</obj_property>
+      <obj_property name="ObjectShortName">op_code[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/op_codes_tb/ADDR0" type="array">
+      <obj_property name="ElementShortName">ADDR0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDR0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/op_codes_tb/ADDR1" type="array">
+      <obj_property name="ElementShortName">ADDR1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDR1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/op_codes_tb/ADDR2" type="array">
+      <obj_property name="ElementShortName">ADDR2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDR2[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/op_codes_tb/uut/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/op_codes_tb/uut/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/op_codes_tb/uut/en" type="logic">
+      <obj_property name="ElementShortName">en</obj_property>
+      <obj_property name="ObjectShortName">en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/op_codes_tb/uut/op_code" type="array">
+      <obj_property name="ElementShortName">op_code[3:0]</obj_property>
+      <obj_property name="ObjectShortName">op_code[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/op_codes_tb/uut/ADDR0" type="array">
+      <obj_property name="ElementShortName">ADDR0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDR0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/op_codes_tb/uut/ADDR1" type="array">
+      <obj_property name="ElementShortName">ADDR1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDR1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/op_codes_tb/uut/ADDR2" type="array">
+      <obj_property name="ElementShortName">ADDR2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDR2[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/op_codes_tb/uut/registers" type="array">
+      <obj_property name="ElementShortName">registers[0:15][31:0]</obj_property>
+      <obj_property name="ObjectShortName">registers[0:15][31:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+   <wvobject fp_name="/op_codes_tb/uut/Bout" type="logic">
+      <obj_property name="ElementShortName">Bout</obj_property>
+      <obj_property name="ObjectShortName">Bout</obj_property>
+   </wvobject>
+</wave_config>

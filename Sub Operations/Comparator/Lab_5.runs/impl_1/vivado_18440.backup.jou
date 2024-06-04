@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Feb  7 03:28:42 2024
+# Process ID: 18440
+# Current directory: C:/Users/VENKAT/OneDrive/Documents/vivado_files/Lab_5/Lab_5.runs/impl_1
+# Command line: vivado.exe -log comparator_4bit.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source comparator_4bit.tcl -notrace
+# Log file: C:/Users/VENKAT/OneDrive/Documents/vivado_files/Lab_5/Lab_5.runs/impl_1/comparator_4bit.vdi
+# Journal file: C:/Users/VENKAT/OneDrive/Documents/vivado_files/Lab_5/Lab_5.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source comparator_4bit.tcl -notrace
